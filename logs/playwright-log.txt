@@ -1,14 +1,14 @@
-{"level":30,"time":"2021-10-26T22:07:19.550Z","pid":9820,"hostname":"RogerioLopes","msg":"Listening on 61907"}
-{"level":30,"time":"2021-10-26T22:07:20.501Z","pid":9820,"hostname":"RogerioLopes","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-10-26T22:07:20.553Z","pid":9820,"hostname":"RogerioLopes","msg":"Changed active context"}
-{"level":30,"time":"2021-10-26T22:07:20.800Z","pid":9820,"hostname":"RogerioLopes","msg":"Video path: undefined"}
-{"level":30,"time":"2021-10-26T22:07:20.805Z","pid":9820,"hostname":"RogerioLopes","msg":"Changed active page"}
-{"level":30,"time":"2021-10-26T22:07:24.214Z","pid":9820,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
-{"level":30,"time":"2021-10-26T22:07:24.262Z","pid":9820,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[placeholder*=senha]"}
-{"level":30,"time":"2021-10-26T22:07:24.288Z","pid":9820,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: text=Entrar"}
-{"level":30,"time":"2021-10-26T22:07:24.361Z","pid":9820,"hostname":"RogerioLopes","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-10-26T22:07:25.362Z","pid":9820,"hostname":"RogerioLopes","msg":"Retrieved text for element css=aside strong containing Administrador"}
-{"level":30,"time":"2021-10-26T22:07:26.154Z","pid":9820,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
+{"level":30,"time":"2021-10-27T10:11:01.384Z","pid":2412,"hostname":"RogerioLopes","msg":"Listening on 61441"}
+{"level":30,"time":"2021-10-27T10:11:02.338Z","pid":2412,"hostname":"RogerioLopes","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-27T10:11:02.363Z","pid":2412,"hostname":"RogerioLopes","msg":"Changed active context"}
+{"level":30,"time":"2021-10-27T10:11:02.629Z","pid":2412,"hostname":"RogerioLopes","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-27T10:11:02.644Z","pid":2412,"hostname":"RogerioLopes","msg":"Changed active page"}
+{"level":30,"time":"2021-10-27T10:11:05.147Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
+{"level":30,"time":"2021-10-27T10:11:05.199Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=password]"}
+{"level":30,"time":"2021-10-27T10:11:05.227Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: text=Entrar"}
+{"level":30,"time":"2021-10-27T10:11:05.294Z","pid":2412,"hostname":"RogerioLopes","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-27T10:11:06.328Z","pid":2412,"hostname":"RogerioLopes","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2021-10-27T10:11:07.131Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
 ================= Original suppressed error =================
 page.fill: Timeout 10000ms exceeded.
 =========================== logs ===========================
@@ -21,97 +21,26 @@ waiting for selector "css=input[name=email]"
   name: 'TimeoutError'
 }
 =============================================================
-{"level":30,"time":"2021-10-26T22:07:37.002Z","pid":9820,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
-================= Original suppressed error =================
-page.fill: Timeout 10000ms exceeded.
-=========================== logs ===========================
-waiting for selector "css=input[name=email]"
-============================================================
-    at C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26427:45
-    at step (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
-    at Object.next (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
-    at fulfilled (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
-  name: 'TimeoutError'
-}
-=============================================================
-{"level":30,"time":"2021-10-26T22:07:48.007Z","pid":9820,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
-================= Original suppressed error =================
-page.fill: Timeout 10000ms exceeded.
-=========================== logs ===========================
-waiting for selector "css=input[name=email]"
-============================================================
-    at C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26427:45
-    at step (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
-    at Object.next (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
-    at fulfilled (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
-  name: 'TimeoutError'
-}
-=============================================================
-{"level":30,"time":"2021-10-26T22:07:58.996Z","pid":9820,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
-================= Original suppressed error =================
-page.fill: Timeout 10000ms exceeded.
-=========================== logs ===========================
-waiting for selector "css=input[name=email]"
-============================================================
-    at C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26427:45
-    at step (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
-    at Object.next (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
-    at fulfilled (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
-  name: 'TimeoutError'
-}
-=============================================================
-{"level":30,"time":"2021-10-26T22:08:09.812Z","pid":9820,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
-================= Original suppressed error =================
-page.fill: Target closed
-=========================== logs ===========================
-waiting for selector "css=input[name=email]"
-============================================================
-    at C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26427:45
-    at step (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
-    at Object.next (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
-    at fulfilled (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
-  name: 'Error'
-}
-=============================================================
-================= Original suppressed error =================
-page.screenshot: Target page, context or browser has been closed
-    at C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:23571:47
-    at step (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:23515:23)
-    at Object.next (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:23496:53)
-    at C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:23490:71
-    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:23486:12)
-    at takeScreenshot (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:23542:12)
-    at PlaywrightServer.<anonymous> (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:24840:50)
-    at step (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:24782:23)
-    at Object.next (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:24763:53)
-    at C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:24757:71
-    at __webpack_modules__../node/playwright-wrapper/grpc-service.ts.__awaiter (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:24753:12)
-    at PlaywrightServer.takeScreenshot (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:24831:55)
-    at handleUnary (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:18453:13) {
-  name: 'Error'
-}
-=============================================================
-{"level":30,"time":"2021-10-26T22:08:15.013Z","pid":9820,"hostname":"RogerioLopes","msg":"Changed active context"}
-{"level":30,"time":"2021-10-26T22:08:15.013Z","pid":9820,"hostname":"RogerioLopes","msg":"Changing current active page"}
-{"level":30,"time":"2021-10-26T22:08:15.014Z","pid":9820,"hostname":"RogerioLopes","msg":"Changed active page"}
-================= Original suppressed error =================
-page.bringToFront: Target page, context or browser has been closed
-    at BrowserState.<anonymous> (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:27121:53)
-    at step (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26668:23)
-    at Object.next (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26649:53)
-    at C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26643:71
-    at __webpack_modules__../node/playwright-wrapper/playwright-state.ts.__awaiter (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26639:12)
-    at BrowserState.__webpack_modules__../node/playwright-wrapper/playwright-state.ts.BrowserState.activatePage (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:27116:16)
-    at C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:27368:55
-    at step (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26668:23)
-    at Object.next (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26649:53)
-    at C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26643:71
-    at __webpack_modules__../node/playwright-wrapper/playwright-state.ts.__awaiter (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26639:12)
-    at _switchPage (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:27356:12)
-    at Object.<anonymous> (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:27484:42)
-    at step (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26668:23)
-    at Object.next (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26649:53)
-    at fulfilled (C:\Program Files\Python39\lib\site-packages\Browser\wrapper\index.js:26640:58) {
-  name: 'Error'
-}
-=============================================================
+{"level":30,"time":"2021-10-27T10:11:17.950Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
+{"level":30,"time":"2021-10-27T10:11:18.840Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=password]"}
+{"level":30,"time":"2021-10-27T10:11:18.882Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: text=Entrar"}
+{"level":30,"time":"2021-10-27T10:11:18.963Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=form span >> text=Informe um e-mail válido"}
+{"level":30,"time":"2021-10-27T10:11:19.631Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
+{"level":30,"time":"2021-10-27T10:11:19.662Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=password]"}
+{"level":30,"time":"2021-10-27T10:11:19.689Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: text=Entrar"}
+{"level":30,"time":"2021-10-27T10:11:19.752Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=form span >> text=A senha é obrigatória"}
+{"level":30,"time":"2021-10-27T10:11:20.394Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
+{"level":30,"time":"2021-10-27T10:11:20.424Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=password]"}
+{"level":30,"time":"2021-10-27T10:11:20.450Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: text=Entrar"}
+{"level":30,"time":"2021-10-27T10:11:20.511Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=form span >> text=O e-mail é obrigatório"}
+{"level":30,"time":"2021-10-27T10:11:21.151Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=email]"}
+{"level":30,"time":"2021-10-27T10:11:21.180Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=input[name=password]"}
+{"level":30,"time":"2021-10-27T10:11:21.202Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: text=Entrar"}
+{"level":30,"time":"2021-10-27T10:11:21.262Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=form span >> text=O e-mail é obrigatório"}
+{"level":30,"time":"2021-10-27T10:11:21.279Z","pid":2412,"hostname":"RogerioLopes","msg":"Page|Frame|Element resolved elementSelector: css=form span >> text=A senha é obrigatória"}
+{"level":30,"time":"2021-10-27T10:11:21.305Z","pid":2412,"hostname":"RogerioLopes","msg":"Changed active context"}
+{"level":30,"time":"2021-10-27T10:11:21.306Z","pid":2412,"hostname":"RogerioLopes","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-27T10:11:21.306Z","pid":2412,"hostname":"RogerioLopes","msg":"Changed active page"}
+{"level":30,"time":"2021-10-27T10:11:21.319Z","pid":2412,"hostname":"RogerioLopes","msg":"Changed active context"}
+{"level":30,"time":"2021-10-27T10:11:21.319Z","pid":2412,"hostname":"RogerioLopes","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-27T10:11:21.319Z","pid":2412,"hostname":"RogerioLopes","msg":"Changed active page"}
